@@ -8,7 +8,7 @@
 
 ---
 
-cs undergrad , drawn to the intersection of machine learning, systems, and problems that actually matter. i gravitate toward computer vision, agentic ai, and quantitative modelling — and i tend to stick around long enough to see things deployed, not just prototyped. published researcher (aip · scopus) and occasional hackathon winner.
+cs undergrad , drawn to the intersection of machine learning, systems, and problems that actually matter. i gravitate toward computer vision, agentic ai, and quantitative modelling- and i tend to stick around long enough to see things deployed, not just prototyped. published researcher (aip · scopus) and occasional hackathon winner.
 
 ---
 
@@ -47,7 +47,7 @@ cs undergrad , drawn to the intersection of machine learning, systems, and probl
 
 *"i am not resigned: i am not the stuff of which juliets are made."*
 <br/>
-<sub>— sylvia plath &nbsp;·&nbsp; a reminder that ambition was never meant to be decorative</sub>
+<sub>- sylvia plath &nbsp;·&nbsp; a reminder that ambition was never meant to be decorative</sub>
 
 </div>
 
