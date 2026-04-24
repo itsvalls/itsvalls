@@ -2,13 +2,13 @@
 
 # vallari sharma
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=560&lines=ai+%2F+ml+engineer;published+researcher+%C2%B7+scopus+%7C+aip" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=300&color=FF6B6B&center=true&vCenter=true&random=false&width=560&lines=ai+%2F+ml+engineer;published+researcher+%C2%B7+scopus+%7C+aip" alt="Typing SVG" />
 
 </div>
 
 ---
 
-cs undergrad , drawn to the intersection of machine learning, systems, and problems that actually matter. i gravitate toward computer vision, agentic AI, and quantitative modelling — and i tend to stick around long enough to see things deployed, not just prototyped. published researcher (AIP · SCOPUS) and occasional hackathon winner.
+cs undergrad , drawn to the intersection of machine learning, systems, and problems that actually matter. i gravitate toward computer vision, agentic ai, and quantitative modelling — and i tend to stick around long enough to see things deployed, not just prototyped. published researcher (aip · scopus) and occasional hackathon winner.
 
 ---
 
@@ -45,7 +45,7 @@ cs undergrad , drawn to the intersection of machine learning, systems, and probl
 
 <div align="center">
 
-*"i am not resigned: i am not the stuff of which Juliets are made."*
+*"i am not resigned: i am not the stuff of which juliets are made."*
 <br/>
 <sub>— sylvia plath &nbsp;·&nbsp; a reminder that ambition was never meant to be decorative</sub>
 
