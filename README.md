@@ -1,94 +1,43 @@
-````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181825,100:cba6f7&height=180&section=header&text=Vallari%20Sharma&fontSize=42&fontColor=f5e0dc&animation=fadeIn"/>
+# vallari sharma
 
-### `backend systems • ai infrastructure • dbms`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=700&lines=building+ml+systems+for+real-world+impact;backend+engineering+%2B+ai+infrastructure;computer+vision+%7C+distributed+thinking;debugging+docker+containers+at+2am"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=560&lines=AI+%2F+ML+Engineer;Published+Researcher+%C2%B7+SCOPUS+%7C+AIP;Computer+Engineering+%40+NMIMS+Mumbai" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧠 about
-
-```yaml
-name: Vallari Sharma
-
-focus:
-  - backend engineering
-  - ai inference systems
-  - dbms
-  - computer vision pipelines
-
-currently_exploring:
-  - distributed systems
-  - database internals
-  - scalable ml deployments
-
-status:
-  "probably reading logs"
-````
+CS undergrad , drawn to the intersection of machine learning, systems, and problems that actually matter. I gravitate toward computer vision, agentic AI, and quantitative modelling — and I tend to stick around long enough to see things deployed, not just prototyped. Published researcher (AIP · SCOPUS) and occasional hackathon winner.
 
 ---
 
-## ⚙️ tech stack
+## `> stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,postgres,docker,git,linux,fastapi,pytorch"/>
+**Languages**
 
-<br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-<img src="https://img.shields.io/badge/scikit--learn-11111b?style=for-the-badge&logo=scikitlearn&logoColor=f9e2af"/>
-<img src="https://img.shields.io/badge/dbms-11111b?style=for-the-badge&logo=postgresql&logoColor=89b4fa"/>
-<img src="https://img.shields.io/badge/computer_vision-11111b?style=for-the-badge&logo=tensorflow&logoColor=f38ba8"/>
+**ML / AI**
 
-</div>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 
----
+**Infra & Tools**
 
-## 🚀 projects
-
-<div align="center">
-
-| project                                 | domain                 |
-| --------------------------------------- | ---------------------- |
-| 👁 retinal video diagnostics            | medical ai             |
-| 🌾 crop disease detection               | agricultural ai        |
-| 🚆 locomotive fault prediction          | predictive diagnostics |
-| 🌍 geospatial rehabilitation monitoring | environmental ai       |
-| 🎲 monopoly with agentic ai             | intelligent systems    |
-
-</div>
-
----
-
-## 🏗 interests
-
-<div align="center">
-
-```txt
-distributed systems
-database internals
-backend architecture
-ml infrastructure
-observability
-dockerized deployments
-```
-
-</div>
-
----
-
-## 📊 github analytics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=f38ba8"/>
-
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=cba6f7&fire=f5c2e7&currStreakLabel=cba6f7"/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -96,11 +45,17 @@ dockerized deployments
 
 <div align="center">
 
-```txt
-> engineered with caffeine and controlled panic
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,100:181825&height=120&section=footer"/>
+*"I am not resigned: I am not the stuff of which Juliets are made."*
+<br/>
+<sub>— Sylvia Plath &nbsp;·&nbsp; a reminder that ambition was never meant to be decorative</sub>
 
 </div>
-```
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vallari-sharma-cse/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vallarisharma25@gmail.com)
+
+</div>
